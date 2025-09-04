@@ -4,8 +4,6 @@
 ### 專案描述 (Project Description)
 本程式使用 RISC-V 組合語言實作組合與排列數學運算。
 
-This program implements combination and permutation mathematical operations using RISC-V assembly language.
-
 ### 功能特色 (Features)
 計算以下數學運算：
 - **mPn** - 排列 (Permutation): 從 m 個物件中選取 n 個的排列數
