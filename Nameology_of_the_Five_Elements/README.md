@@ -4,8 +4,6 @@
 ### 專案描述 (Project Description)
 本程式使用 RISC-V 組合語言實作傳統中文姓名學分析，根據姓名筆劃數計算三才五格。
 
-This program implements traditional Chinese nameology analysis using RISC-V assembly language, calculating the "Three Talents and Five Grids" based on name stroke counts.
-
 ### 功能特色 (Features)
 - **姓名筆劃輸入** - 輸入姓名各字的筆劃數
 - **三才五格計算** - 計算天格、人格、地格、外格、總格
