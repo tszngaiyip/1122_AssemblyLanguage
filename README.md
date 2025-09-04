@@ -1,11 +1,9 @@
-# 1122 - 組合語言與計算機組織 (Assembly Language and Computer Organization)
+# 1122 - 組合語言與計算機組織 
 
-## 課程簡介 (Course Description)
+## 課程簡介
 此為1122學期組合語言與計算機組織課程的作業與報告程式碼倉庫。
 
-This repository contains homework assignments and project code for the 1122 Assembly Language and Computer Organization course.
-
-## 程式語言 (Programming Language)
+## 程式語言
 - **RISC-V Assembly Language**
 
 ## 專案列表 (Projects)
@@ -27,13 +25,8 @@ This repository contains homework assignments and project code for the 1122 Asse
 - 計算圖形中的最小史坦納樹
 - 支援座標點輸入與輸出
 
-## 使用說明 (Usage)
+## 使用說明
 每個專案資料夾內都包含：
 - RISC-V 組合語言源碼 (`.asm` 檔案)
 - 專案說明文件 (`README.md`)
 - 執行結果示例圖片
-
-Each project folder contains:
-- RISC-V assembly source code (`.asm` files)
-- Project documentation (`README.md`)
-- Demo screenshots
